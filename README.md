@@ -97,7 +97,3 @@ While not implemented in this basic version, unit testing can be incorporated in
 
 * **8.4 Maintenance Process:**
 The code will be maintained through bug fixes, potential feature enhancements (e.g., user interface improvements, data storage), and code refactoring as needed. Version control ensures tracking of changes and reverting to previous versions if necessary.
-
-**9. Appendix**
-
-* **9.1 Glossary:** (
