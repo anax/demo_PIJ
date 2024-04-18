@@ -3,7 +3,7 @@
 **1. Introduction**
 
 * **1.1 Program Description:**
-This Java program, named "StudentResultManagementSystem," calculates the cumulative marks, percentage, and rank for students based on their individual subject marks. It is designed for educational institutions to efficiently manage and present student results during result declaration weeks.
+This "Student Result Management Program" is a lifesaver built just for you. It's a computer program written in Java that helps schools manage student results easily. No more mountains of papers and endless calculations – this program takes care of it all! It takes all the hassle out of calculating grades and rankings. Just feed in the individual subject marks for each student, and the program whizzes through everything, giving you cumulative marks, percentages, and even student ranks. Talk about a lifesaver during result declaration weeks!
 
 * **1.2 Version Control:**
 The code is version-controlled using Git. The repository can be found at https://github.com/anax/demo_PIJ/blob/main/StudentResultManagementSystem.java
