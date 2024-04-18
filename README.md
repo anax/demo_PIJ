@@ -28,7 +28,8 @@ This program addresses the need for a streamlined and automated system for calcu
 **3. Installation Instructions**
 
 * **3.1 Prerequisites:**
-    * Java must be installed on the system. Download and install from the official website ([https://www.oracle.com/java/technologies/javase-downloads.html](https://www.oracle.com/java/technologies/javase-downloads.html)) if not already present.
+    * Java must be installed on the system. Install and download via the official website.
+ ([https://www.oracle.com/java/technologies/javase-downloads.html](https://www.oracle.com/java/technologies/javase-downloads.html)) if not already present.
 
 * **3.2 Installation Steps:**
     1. Download the program source code from the version control repository (refer to section 1.2).
